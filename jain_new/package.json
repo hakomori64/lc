@@ -1,0 +1,11 @@
+{
+  "name": "jain",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodejs app.js"
+  },
+  "dependencies": {
+    "socket.io": "^2.1.1"
+  }
+}
